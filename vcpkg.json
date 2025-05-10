@@ -1,0 +1,14 @@
+{
+    "name":  "mytestplugin",
+    "version-string":  "1.0.0",
+    "description":  "Demo Plugin :)",
+    "license":  "MIT",
+    "dependencies":  [
+                         "spdlog"
+                     ],
+    "features":  {
+                     "mo2-install":  {
+                                         "description":  "My Test Mod"
+                                     }
+                 }
+}
