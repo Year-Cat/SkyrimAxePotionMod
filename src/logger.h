@@ -1,5 +1,9 @@
 #pragma once
 
+// logger.h is sourced from https://github.com/SkyrimScripting/SKSE_Templates
+// The original project is licensed under the MIT License
+// The author recommends using this file for debug logging in SKSE plugins
+
 // This is a snippet you can put at the top of all of your SKSE plugins!
 
 #include <spdlog/sinks/basic_file_sink.h>
