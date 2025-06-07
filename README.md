@@ -36,7 +36,7 @@
 ## 🧰 安装与配置
 
 1. 使用支持 `CommonLibSSE-NG` 的开发模板构建本项目。
-2. 将编译生成的 `.dll` 放入 `Skyrim\Data\SKSE\Plugins` 目录中。
+2. 将编译生成的 `.dll` 放入 `Skyrim Special Edition\Data\SKSE\Plugins` 目录中。
 3. 确保游戏版本为 **1.5.97.0**，并已正确安装 **SKSE**。
 
 ---
