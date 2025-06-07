@@ -1,0 +1,52 @@
+# Build artifacts
+build/
+Build/
+bin/
+obj/
+*.dll
+*.exe
+*.lib
+*.pdb
+*.exp
+*.ilk
+*.log
+*.tlog
+*.lastbuildstate
+
+# Visual Studio specific files
+.vs/
+*.VC.db
+*.VC.VC.opendb
+*.opensdf
+*.sdf
+*.suo
+*.user
+*.aps
+*.bsc
+*.ncb
+*.o
+*.ipch
+*.obj
+*.vcxproj.user
+*.vcxproj.filters
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+install/
+# If using CMakePresets, some build directories might be named differently, e.g., out/build/
+out/
+
+# vcpkg specific files
+vcpkg_installed/
+
+# Editor specific files
+.vscode/
+.idea/
+*.code-workspace
+
+# Other common temporary files
+*.tmp
+*~
